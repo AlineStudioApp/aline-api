@@ -6,8 +6,8 @@
         "appDescription": "Aline Api Connect"
       },
       "api": {
-        "connectUrl": "https://alinestudio.online/api/connect",
-        "backupUrl": "https://alinestudio.online/api/backup"
+        "connectUrl": "https://alinestudio.online/api/connect/",
+        "backupUrl": "https://alinestudio.online/api/backup/"
       }
     }
   ]
