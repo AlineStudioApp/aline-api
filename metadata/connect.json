@@ -5,7 +5,7 @@
         "appName": "Aline Studio",
         "appDescription": "Aline Api Connect"
       },
-      "api": {
+      "api-v1": {
         "connectUrl": "https://alinestudio.online/api/connect/",
         "backupUrl": "https://alinestudio.online/api/backup/"
       }
